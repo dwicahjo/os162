@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/d/dwi.cahyo31/os162/w01
+Lab01.txt
+total 12
+drwxr-xr-x 2 dwi.cahyo31 StafCS 4096 Sep  3 20:59 .
+drwxr-xr-x 4 dwi.cahyo31 StafCS 4096 Sep  3 20:46 ..
+-rw-r--r-- 1 dwi.cahyo31 StafCS   59 Sep  3 21:14 Lab01.txt
