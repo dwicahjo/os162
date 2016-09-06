@@ -1,4 +1,3 @@
-#Dwi Cahyo Prasetyo Utomo
-#REG162
+#ostutorial
 
-My Expectation is bla bla bla
+I expect that OS will be fun and interesting
